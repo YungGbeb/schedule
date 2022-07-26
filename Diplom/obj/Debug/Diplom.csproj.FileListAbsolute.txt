@@ -1,0 +1,99 @@
+D:\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe.config
+D:\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe
+D:\Диплом\Diplom\Diplom\bin\Debug\Diplom.pdb
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.exe
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.pdb
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+D:\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe.manifest
+D:\Диплом\Diplom\Diplom\bin\Debug\Diplom.application
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.exe.manifest
+D:\Диплом\Diplom\Diplom\obj\Debug\Diplom.application
+C:\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe.manifest
+C:\Диплом\Diplom\Diplom\bin\Debug\Diplom.application
+C:\Диплом\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Диплом\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.SuggestedBindingRedirects.cache
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.exe.manifest
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.application
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Диплом\Diplom\Diplom\obj\Debug\Diplom.pdb
+D:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe.config
+D:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe.manifest
+D:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.application
+D:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe
+D:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.pdb
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.Form1.resources
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.exe.manifest
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.application
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.exe
+D:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.pdb
+C:\Диплом\DiplomNOBD home\Diplom\bin\Debug\Diplom.exe.config
+C:\Диплом\DiplomNOBD home\Diplom\bin\Debug\Diplom.exe.manifest
+C:\Диплом\DiplomNOBD home\Diplom\bin\Debug\Diplom.application
+C:\Диплом\DiplomNOBD home\Diplom\bin\Debug\Diplom.exe
+C:\Диплом\DiplomNOBD home\Diplom\bin\Debug\Diplom.pdb
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.csproj.SuggestedBindingRedirects.cache
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.exe.manifest
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.application
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.exe
+C:\Диплом\DiplomNOBD home\Diplom\obj\Debug\Diplom.pdb
+C:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe.config
+C:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe.manifest
+C:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.application
+C:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe
+C:\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.pdb
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.SuggestedBindingRedirects.cache
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.exe.manifest
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.application
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.exe
+C:\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.pdb
+G:\Диплом\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe.config
+G:\Диплом\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe.manifest
+G:\Диплом\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.application
+G:\Диплом\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.exe
+G:\Диплом\Диплом\DiplomNOBD\Diplom\bin\Debug\Diplom.pdb
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.SuggestedBindingRedirects.cache
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Interop.VBIDE.dll
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.Form1.resources
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.exe.manifest
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.application
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.exe
+G:\Диплом\Диплом\DiplomNOBD\Diplom\obj\Debug\Diplom.pdb
+G:\Диплом\Диплом\DiplomNOBD\Diplom\bin\Debug\Resources\audspath.txt
